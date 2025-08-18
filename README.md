@@ -1,1 +1,1 @@
-# Integrative-Programming-Exercise 1
+# Integrative-Programming-Exercises
